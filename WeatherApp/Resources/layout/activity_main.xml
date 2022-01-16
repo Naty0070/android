@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <ImageView
+        android:src="@android:drawable/ic_menu_gallery"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/imageViewPicture"
+        android:contentDescription="description" />
+    <TextView
+        android:text="City"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:gravity="center_horizontal"
+        android:id="@+id/textViewCity" />
+    <RelativeLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:id="@+id/relativeLayout1">
+        <TextView
+            android:text="Weather:"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:textSize="15sp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="15dp"
+            android:id="@+id/textViewWeather" />
+        <TextView
+            android:text="Text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:textSize="15sp"
+            android:layout_marginRight="60dp"
+            android:layout_alignParentRight="true"
+            android:id="@+id/textViewWetText" />
+    </RelativeLayout>/>
+    <RelativeLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:id="@+id/relativeLayout2">
+        <TextView
+            android:text="Temperature:"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:textSize="15sp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="15dp"
+            android:id="@+id/textViewTemperature"
+            android:layout_marginBottom="0.0dp" />
+        <TextView
+            android:text="Text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:textSize="15sp"
+            android:layout_marginRight="60dp"
+            android:layout_alignParentRight="true"
+            android:id="@+id/textViewTempText" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:id="@+id/relativeLayout3">
+        <TextView
+            android:text="Wind:"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:textSize="15sp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="15dp"
+            android:id="@+id/textViewWind" />
+        <TextView
+            android:text="Text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:textSize="15sp"
+            android:layout_marginRight="60dp"
+            android:layout_alignParentRight="true"
+            android:id="@+id/textViewWindText" />
+    </RelativeLayout>/>
+    <RelativeLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:id="@+id/relativeLayout4">
+        <TextView
+            android:text="Humidity:"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:textSize="15sp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="15dp"
+            android:id="@+id/textViewHumidity" />
+        <TextView
+            android:text="Text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:textSize="15sp"
+            android:layout_marginRight="60dp"
+            android:layout_alignParentRight="true"
+            android:id="@+id/textViewHumText" />
+    </RelativeLayout>/>
+    <RelativeLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:id="@+id/relativeLayout5">
+        <TextView
+            android:text="LocalTime:"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:textSize="15sp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="15dp"
+            android:id="@+id/textViewLocalTime" />
+        <TextView
+            android:text="Text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:textSize="15sp"
+            android:layout_marginRight="60dp"
+            android:layout_alignParentRight="true"
+            android:id="@+id/textViewTimeText" />
+    </RelativeLayout>/>
+    <RelativeLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:id="@+id/relativeLayout6">
+        <TextView
+            android:text="Sunrise:"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:textSize="15sp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="15dp"
+            android:id="@+id/textViewSunrise" />
+        <TextView
+            android:text="Text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:textSize="15sp"
+            android:layout_marginRight="60dp"
+            android:layout_alignParentRight="true"
+            android:id="@+id/textViewSunriseText" />
+    </RelativeLayout>/>
+    <RelativeLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:id="@+id/relativeLayout7">
+        <TextView
+            android:text="Sunset:"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:textSize="15sp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="15dp"
+            android:id="@+id/textViewSunset" />
+        <TextView
+            android:text="Text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:textSize="15sp"
+            android:layout_marginRight="60dp"
+            android:layout_alignParentRight="true"
+            android:id="@+id/textViewSunsetText" />
+    </RelativeLayout>/>
+    
+    
+    
+    <Button
+        android:text="Change the city"
+        android:textSize="25dp"
+        android:padding="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:id="@+id/buttonChange" />
+</LinearLayout>

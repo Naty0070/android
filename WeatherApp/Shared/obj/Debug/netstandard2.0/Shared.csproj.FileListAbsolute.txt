@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\Xamarin\WeatherApp\Shared\bin\Debug\netstandard2.0\Shared.deps.json
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\Xamarin\WeatherApp\Shared\bin\Debug\netstandard2.0\Shared.dll
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\Xamarin\WeatherApp\Shared\bin\Debug\netstandard2.0\Shared.pdb
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\Xamarin\WeatherApp\Shared\obj\Debug\netstandard2.0\Shared.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\Xamarin\WeatherApp\Shared\obj\Debug\netstandard2.0\Shared.AssemblyInfo.cs
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\Xamarin\WeatherApp\Shared\obj\Debug\netstandard2.0\Shared.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\Xamarin\WeatherApp\Shared\obj\Debug\netstandard2.0\Shared.dll
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\Xamarin\WeatherApp\Shared\obj\Debug\netstandard2.0\Shared.pdb
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\Xamarin\WeatherApp\Shared\obj\Debug\netstandard2.0\Shared.csproj.AssemblyReference.cache

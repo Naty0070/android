@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kBU3XQYuP1y0K1OdSULPTGBDt3y5LIhb9GK3UZ8a59ZkfgtwnG+5PX9RUt/EzFhA9Hrg13DiX5hAfirZkmNiAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\Naty-programovani\\programovani\\Moje programy\\Xamarin\\WeatherApp\\WinFormsWeather\\WinFormsWeather.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

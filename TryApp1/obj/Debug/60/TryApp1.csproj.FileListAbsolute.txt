@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\Xamarin\TryApp1\obj\Debug\60\MonoAndroid,Version=v6.0.AssemblyAttributes.cs
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\Xamarin\TryApp1\obj\Debug\60\build.props
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\Xamarin\TryApp1\obj\Debug\60\adb.props
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\Xamarin\TryApp1\obj\Debug\60\TryApp1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\Xamarin\TryApp1\obj\Debug\60\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\Xamarin\TryApp1\obj\Debug\60\res.flag
